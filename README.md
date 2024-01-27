@@ -1,1 +1,2 @@
 # Taller-Laboratorio1
+Bueno mi rediseño de la página oficial de Kinal no esta completo siendo sincero por temas de tiempo pero pude hacer un poco de lo que me hubiera gustado que haya tenido, me gusta mucho trabajar con las famosas secciones dónde siento que para mi, trabajo más rápido por el entendimiento que tengo ya con ellas y pues tal vez algún día el grupo de desarrollo de la página web escucha nuestras opiniones de como nos gustaría qur fuera la página por que todo importa.
